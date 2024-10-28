@@ -2,8 +2,7 @@
 
 This project focuses on the design and implementation of a doubly-linked list Abstract Data Type (ADT) that enables efficient navigation between nodes. The implementation includes two main components: a standard circular doubly-linked list and a specialized lockable version that extends the functionality of the base list.
 
-![簡報2](https://github.com/user-attachments/assets/2ed9c47e-acfb-43b5-8a0a-a30190172ac7)
-
+![Doubly Circular Guard](https://github.com/user-attachments/assets/ba6563a5-0f42-44b9-833e-c335b0ada125)
 
 ## Part I: Circular Doubly-Linked List
 
